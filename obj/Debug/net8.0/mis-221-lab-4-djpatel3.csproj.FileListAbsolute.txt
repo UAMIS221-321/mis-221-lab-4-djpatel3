@@ -1,0 +1,15 @@
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\mis-221-lab-4-djpatel3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\mis-221-lab-4-djpatel3.AssemblyInfoInputs.cache
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\mis-221-lab-4-djpatel3.AssemblyInfo.cs
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\mis-221-lab-4-djpatel3.csproj.CoreCompileInputs.cache
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\mis-221-lab-4-djpatel3.sourcelink.json
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\bin\Debug\net8.0\mis-221-lab-4-djpatel3.exe
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\bin\Debug\net8.0\mis-221-lab-4-djpatel3.deps.json
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\bin\Debug\net8.0\mis-221-lab-4-djpatel3.runtimeconfig.json
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\bin\Debug\net8.0\mis-221-lab-4-djpatel3.dll
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\bin\Debug\net8.0\mis-221-lab-4-djpatel3.pdb
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\mis-221-lab-4-djpatel3.dll
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\refint\mis-221-lab-4-djpatel3.dll
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\mis-221-lab-4-djpatel3.pdb
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\mis-221-lab-4-djpatel3.genruntimeconfig.cache
+C:\Users\diyap\OneDrive\Documents\source\Fall2024repos\labs\mis-221-lab-4-djpatel3\obj\Debug\net8.0\ref\mis-221-lab-4-djpatel3.dll
